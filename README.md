@@ -4,23 +4,18 @@
 
 Welcome to my project! You can find the latest release and release notes in the [Releases](https://github.com/v1nqour/VINQO-ADMIN/releases) section.
 
-## **Welcome Page:**
-![Local Image](Welcome.JPG)
-
-## **Sign In Page:**
-![Local Image](Signin.JPG)
+## **Control Panel Page:**
+![Local Image](ControlPanel.JPG)
 
 ## **Dashboard Page:**
-![Local Image](Dashboard.JPG)
+![Local Image](UsersPanel.JPG)
 
-## **Add Client Page:**
-![Local Image](Addclient.JPG)
+## **Register Page:**
+![Local Image](Register.JPG)
 
 ## **Update Page:**
-![Local Image](Update.JPG)
+![Local Image](UpdateUser.JPG)
 
-## **Account Activation Pages:**
-![Local Image](Actication.JPG)
 
 ### To set up a ***Laravel*** project using an alternative method, you can follow these steps:
 ####  type the following command in the Terminal:
